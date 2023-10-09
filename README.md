@@ -19,9 +19,14 @@ Backend:
 Node.js
 Express.js
 MongoDB
-Clone the repository:
+
+
+#Clone the repository:
 git clone https://github.com/Josh223311/Dr.-appointmnt-systm.git
-Navigate to the project directory:
+
+
+
+#Navigate to the project directory:
 cd Dr.-appointmnt-systm
 
 
