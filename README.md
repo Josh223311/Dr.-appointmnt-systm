@@ -33,4 +33,16 @@ git clone https://github.com/Josh223311/Dr.-appointmnt-systm.git
 
 cd Dr.-appointmnt-systm
 
+Install backend dependencies:
+
+cd backend
+npm install
+
+
+Install frontend dependencies:
+
+cd ../frontend
+npm install
+
+
 
